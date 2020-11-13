@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         int cc;
-        System.out.println("***************welcome to vending machine****************");
+        System.out.println("*welcome to vending machine*");
         do {
             System.out.println("Owner---1\t\t\t\t\tCustomer------2");
             Scanner sc = new Scanner(System.in);
